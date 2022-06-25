@@ -17,12 +17,12 @@ global.APIKeys = {
 }
 
 //other
-global.owner = ['94770267442'] 
+global.owner = ['94762352974'] 
 global.pemilik = ['94770267442'] //pemilik nomor
 global.premium = ['94770267442'] //premium number
 global.pengguna = '☘Anusha☘' //pengguna
 global.botnma = '☘Anusha☘' //botnama,botname
-global.ownernma = '☘Anusha☘' //ownernama,ownername
+global.ownernma = '☘Anuchamath☘' //ownernama,ownername
 global.packname = '© ☘Anusha☘' // packname
 global.author = '☘Anusha' //authorname
 global.sessionName = 'session'
@@ -37,7 +37,7 @@ Thanks fro using...`
 global.welcome = `
 🌀 Thanks Fro using Anusha
 ✾ Some bugs fixing
-😼♥️
+☘🖤
 `
 // වෙල්කම් එක යවන්න ඔනි නම් add කියලා දාන්න 
 global.sendwelcome = `add`
