@@ -29,13 +29,13 @@ global.sessionName = 'session'
 global.prefa = ['#','!','/',''] 
 global.sp = '🔵'
 // Alive massage 
-global.alive =`Hello i am alive now
+global.alive =`Hello Anusha is back now
 
 Download song type .yt 
 Thanks fro using...`
 // Welcome massage  
 global.welcome = `
-🌀 Thanks Fro using sl zim bot
+🌀 Thanks Fro using Anusha
 ✾ Some bugs fixing
 😼♥️
 `
