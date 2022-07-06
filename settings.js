@@ -24,23 +24,125 @@ global.pengguna = '☘Anusha☘' //pengguna
 global.botnma = '☘Anusha☘' //botnama,botname
 global.ownernma = '☘Anuchamath☘' //ownernama,ownername
 global.packname = '© ☘Anusha☘' // packname
-global.author = '☘Anusha' //authorname
-global.sessionName = 'session'
+global.author = '☘Anusha☘' //authorname
+global.sessionName = '☘Anusha☘'
 global.prefa = ['#','!','/',''] 
 global.sp = '🔵'
 // Alive massage 
-global.alive =`Hello Anusha is back now
+global.alive =`Hello 
+-------------------------------------------------------
+
+☘A░N░U░S░H░A░ B░O░T░☘
+
+  * 𝓬𝓸𝓶𝓪𝓷𝓭 *
+
+ᶠᵒʳ ᵐᵒʳᵉ ⁱᵐᶠᵒʳᵐᵃᵗⁱᵒⁿ ˢᵉⁿᵈ *.menu*
+
+. song [ yt link ]
+
+. video [ yt link ]
+
+.song [ song name ]
+
+.sticker [ photo or video ]
+
+https://chat.whatsapp.com/BR6TrmmlCinB2BkfcwwWpb
+
+*⛔⛓Discipline No. 01🤝*
+
+*⛔Do not inappropriate chat🗒️*
+
+*⛔No Link / Inbox Forbidden📥*
+
+*⛔Inactive members will be removed🗑️*
+
+*⛔Do not disturb other members🕯️*
+
+*⛔Respect everyone🥰*
+
+*⛔No SEX or Porn🔞*
+
+*⛔Do not give many commands for one long⚠️*
+
+Github link☘ https://github.com/Anuchamath
 
 Download song type .yt 
 Thanks fro using...`
 // Welcome massage  
 global.welcome = `
-🌀 Thanks Fro using Anusha
-✾ Some bugs fixing
+🌀 -------------------------------------------------------
+
+☘A░N░U░S░H░A░ B░O░T░☘
+
+  * 𝓬𝓸𝓶𝓪𝓷𝓭 *
+
+ᶠᵒʳ ᵐᵒʳᵉ ⁱᵐᶠᵒʳᵐᵃᵗⁱᵒⁿ ˢᵉⁿᵈ *.menu*
+
+. song [ yt link ]
+
+. video [ yt link ]
+
+.song [ song name ]
+
+.sticker [ photo or video ]
+
+https://chat.whatsapp.com/BR6TrmmlCinB2BkfcwwWpb
+
+*⛔⛓Discipline No. 01🤝*
+
+*⛔Do not inappropriate chat🗒️*
+
+*⛔No Link / Inbox Forbidden📥*
+
+*⛔Inactive members will be removed🗑️*
+
+*⛔Do not disturb other members🕯️*
+
+*⛔Respect everyone🥰*
+
+*⛔No SEX or Porn🔞*
+
+*⛔Do not give many commands for one long⚠️*
+
+Github link☘ https://github.com/Anuchamath
 ☘🖤
 `
 // වෙල්කම් එක යවන්න ඔනි නම් add කියලා දාන්න 
-global.sendwelcome = `add`
+global.sendwelcome = `-------------------------------------------------------
+
+☘A░N░U░S░H░A░ B░O░T░☘
+
+  * 𝓬𝓸𝓶𝓪𝓷𝓭 *
+
+ᶠᵒʳ ᵐᵒʳᵉ ⁱᵐᶠᵒʳᵐᵃᵗⁱᵒⁿ ˢᵉⁿᵈ *.menu*
+
+. song [ yt link ]
+
+. video [ yt link ]
+
+.song [ song name ]
+
+.sticker [ photo or video ]
+
+https://chat.whatsapp.com/BR6TrmmlCinB2BkfcwwWpb
+
+*⛔⛓Discipline No. 01🤝*
+
+*⛔Do not inappropriate chat🗒️*
+
+*⛔No Link / Inbox Forbidden📥*
+
+*⛔Inactive members will be removed🗑️*
+
+*⛔Do not disturb other members🕯️*
+
+*⛔Respect everyone🥰*
+
+*⛔No SEX or Porn🔞*
+
+*⛔Do not give many commands for one long⚠️*
+
+Github link☘ https://github.com/Anuchamath`
 // Good bye එක ඔනි නම් remove කියලා දාන්න
 global.sendgoodbye = `remove`
 
